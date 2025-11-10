@@ -3,9 +3,6 @@
 </p>
 
 <p align="center">
-  👋 Hola, soy Gustavo Delnardo<br>
-  💻 Apasionado por la programación y desarrollo web<br>
-  🚀 Aprendiendo nuevas tecnologías y mejorando proyectos<br>
-  📫 Contacto: soyemail@example.com
+  
 </p>
 
