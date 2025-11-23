@@ -45,7 +45,7 @@ Siempre busco aprender más y superarme, con la meta de ser un programador **mej
   <a href="https://www.linkedin.com/in/gustavo-delnardo-2b2990397/">
     <img src="https://img.shields.io/badge/-LinkedIn-FF0000?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:gustavo1@gmail.com">
+  <a href="mailto:gustavoedv35@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
