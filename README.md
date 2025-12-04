@@ -32,8 +32,9 @@ Siempre busco aprender más y superarme, con la meta de ser un programador **mej
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-FF0000?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-HTML5-FF4500?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS-DC143C?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MySQL-B22222?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MySQL-B22222?style=flat&logo=mysql&logoColor=white"/> 
 </p>
 
 <!-- GIF: puedo cambiarlo o poner más GIFs aquí -->
