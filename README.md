@@ -70,7 +70,8 @@ Siempre busco aprender más y superarme, con la meta de ser un programador **mej
 ## 📫 Contacto
 <!-- CONTACTO: aquí puedo actualizar mi LinkedIn o correo si cambian -->
 <p align="center">
-  <img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/gustavo-delnardo-2b2990397/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:gustavoedv35@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
