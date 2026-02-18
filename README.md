@@ -76,4 +76,6 @@ Siempre busco aprender más y superarme, con la meta de ser un programador **mej
   <a href="mailto:gustavoedv35@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  <br>
+  <sub>gustavoedv35@gmail.com</sub>
 </p>
