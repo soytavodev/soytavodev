@@ -8,13 +8,13 @@
 <!-- PERFIL: descripción corta de mi rol e intereses -->
 **Desarrollador en formación | Desarrollo de Aplicaciones Multiplataforma**  
 
-🎮 **Estudiante de DAM, apasionado por:** Desarrollo de videojuegos, aplicaciones y diseño web  
+🎮 **Estudiante de DAM, apasionado por:** Diseño web, aplicaciones y desarrollo de videojuegos.  
 
 ## 🔍 Sobre mí
 Disfruto de todo el proceso de desarrollo, desde lo que ve el usuario hasta lo que ocurre detrás del código.  
 Siempre busco aprender más y superarme, con la meta de ser un programador **mejor que bueno** 💪.  
 
-🛡️ También me interesa la **cyberseguridad**, explorando cómo crear soluciones digitales seguras y eficientes.  
+🛡️ También me interesa la **ciberseguridad**, explorando cómo crear soluciones digitales seguras y eficientes.  
 ✨ Curioso, ocurrente, divertido y entregado a mis proyectos, dejando siempre mi toque personal en cada línea de código.  
 
 ---
@@ -30,12 +30,13 @@ Siempre busco aprender más y superarme, con la meta de ser un programador **mej
 💻 **Lenguajes y tecnologías:**  
 <!-- AQUÍ PUEDO CAMBIAR LOS BADGES DE TECNOLOGÍAS O AGREGAR NUEVAS -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-FF0000?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-HTML5-FF4500?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS-DC143C?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MySQL-B22222?style=flat&logo=mysql&logoColor=white"/> 
-</p>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></p>
 
 <!-- GIF: puedo cambiarlo o poner más GIFs aquí -->
 <p align="center">
@@ -48,7 +49,7 @@ Siempre busco aprender más y superarme, con la meta de ser un programador **mej
 ## 🌱 Actualmente explorando
 <!-- AQUÍ PUEDO CAMBIAR MIS OBJETIVOS O LO QUE ESTOY APRENDIENDO -->
 - Nuevas ideas para **videojuegos** y aplicaciones  
-- Mejorar mis habilidades en **Python, HTML, CSS y MySQL**  
+- Mejorar mis habilidades en diversas tecnologías  
 - Aprender sobre **UI/UX** y buenas prácticas de desarrollo  
 - Experimentar con pequeños proyectos que combinen creatividad y código
 
