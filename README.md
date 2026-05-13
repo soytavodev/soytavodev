@@ -5,8 +5,8 @@
 <h1 align="center"><b>Hola, soy Gustavo Delnardo</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <b>Desarrollador Full Stack | Estudiante de DAM</b><br>
-  <i>Apasionado por el desarrollo web, la tecnología y los videojuegos.</i>
+  <b>Desarrollador | Estudiante de DAM</b><br>
+  <i>Apasionado por el desarrollo, la tecnología y los videojuegos.</i>
 </p>
 
 ---
