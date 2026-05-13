@@ -66,12 +66,12 @@ Antes de programar, trabajé en gestión operativa. No te voy a vender que soy u
 
 <p align="center">
   <a href="https://gustavodelnardo.com" target="_blank">
-    <img src="https://img.shields.io/badge/SITIO_WEB-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Sitio Web"/>
+    <img src="https://img.shields.io/badge/SITIO_WEB-%23000000.svg?style=flat&logo=firefox&logoColor=white" alt="Sitio Web"/>
   </a>
   <a href="https://www.linkedin.com/in/gustavo-delnardo-2b2990397/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:gustavoedv35@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/GMAIL-%23D14836.svg?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
