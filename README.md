@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="2080" height="600" alt="Banner para GitHub- soy_tavo_dev" src="https://github.com/user-attachments/assets/415fa143-ae8f-449c-a9ae-de38c49228d6" />
+  <img width="2080" height="600" alt="Banner para GitHub- soy_tavo_dev" src="https://raw.githubusercontent.com/soytavodev/ASSETS/main/banner-github.png" />
 </p>
 
 <h1 align="center"><b>Hola, soy Gustavo Delnardo</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
