@@ -17,6 +17,7 @@ Además del desarrollo web y los videojuegos, me interesa la ciberseguridad.
 | [ChopCheck](https://github.com/soytavodev/ChopCheck) | Aplicación para dividir la cuenta de una mesa entre los comensales, con panel para el camarero | PHP, MySQL, JavaScript |
 | [GuessIt](https://github.com/soytavodev/GuessIt) | Juego de preguntas con cuentas de usuario y ranking | PHP, MySQL |
 | [ChangeIt](https://github.com/soytavodev/ChangeIt) | Conversor de divisas con una API pública | PHP, API REST |
+| [Analizador-ids](https://github.com/soytavodev/Analizador-ids) | Detector de intrusos para logs web, por reglas y con IA local | Python, SQLite, Ollama |
 | [personal-site](https://github.com/soytavodev/personal-site) | Mi web personal y portfolio | React, TypeScript, Vite |
 
 Capturas y más detalles en [mi portfolio](https://gustavo-delnardo.vercel.app/portfolio).
