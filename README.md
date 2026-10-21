@@ -6,7 +6,7 @@
 
 Estudio segundo de Desarrollo de Aplicaciones Multiplataforma (DAM) en Valencia. Llegué a la programación por los videojuegos: de pequeño quería saber cómo funcionaban y ahora quiero aprender a hacerlos.
 
-Antes de programar trabajé cinco años en Chile, primero repartiendo pedidos y después gestionando empresas que lo llevaban todo en papel y Excel. De esa etapa me traje la costumbre de no rendirme cuando algo no sale a la primera.
+Antes de programar viví seis años en Chile (2019–2025): trabajé en hostelería, repartí pedidos y fui asistente administrativo en empresas que lo llevaban todo en papel y Excel. De esa etapa me traje la costumbre de no rendirme cuando algo no sale a la primera.
 
 Además del desarrollo web y los videojuegos, me interesa la ciberseguridad.
 
